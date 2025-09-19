@@ -43,3 +43,8 @@ Examples
 - [Fine-tuning a LinkedIn Post Writer](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-5/example_1-linkedin_post_writer.ipynb)
 - [Fine-tuning BERT for Text Classification](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-5/example_2-finetune_bert_classifier.ipynb)
 
+## Session 6: Deploying AI Apps
+Building projects is one of the best ways to learn AI. However, if your projects only live on your laptop, the value your software generates will always be limited. This example shows a simple way to deploy AI apps (for free) using Docker and Hugging Face Spaces.
+
+Example
+- [Hosting a YouTube Agent](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/tree/main/session-6)
